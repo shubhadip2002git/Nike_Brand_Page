@@ -4,8 +4,8 @@ import HeroSection from "./components/Hero";
 const App = () => {
   return (
     <div>
-      <Navigation/>
-      <HeroSection/>
+      <Navigation />
+      <HeroSection />
     </div>
   );
 };
